@@ -1,4 +1,4 @@
-# Classification-of-Snake-Species-in-Indian-Subcontinent
+# SAAP: A Study on Deep Learning Based Models for Indian Subcontinental Snakes Species Classification 
 
 This repository contains all the files used in the concerned research. The aim of the classification problem is to classify the species of a snake from its given image.
 The dataset which we used here is collected from [Kaggle-SNAKECLEF2022 Competition](https://www.kaggle.com/competitions/snakeclef2022).
