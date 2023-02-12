@@ -6,11 +6,11 @@ The dataset which we used here is collected from [Kaggle-SNAKECLEF2022 Competiti
 Our main focus is on the Indian subcontinent which includes **INDIA,BANGLADESH,BHUTAN,MALDIVES,NEPAL,PAKISTAN AND SRILANKA**. 
 We have also narrowed down the Snake species to the most deadly snakes of four categories i.e. **NAJA NAJA, BUNGARUS CAERULES, DABOIA RUSSELII, ECHIS CARINATUS**.
 
-Here We follow *four* major methodology.
+Here We follow *four* major methodologies.
 - Vision Transfer through Hugging Face
 - Resnest101 Model through Pytorch
 - Transfer Learning Models
 - Ensemble Method
 
-*Resonable accuracies were found for every model and the model is also tested by two sample images*.
+
 
