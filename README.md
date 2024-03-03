@@ -4,10 +4,10 @@ This repository contains all the files used in the concerned research. The class
 
 
 ## Dataset
-The dataset which we used here is collected from [SNAKECLEF2022 Competition](https://www.kaggle.com/competitions/snakeclef2022).
+- We have introduced a new dataset called **Saap-Big Four** with images from [SNAKECLEF2022 Competition](https://www.kaggle.com/competitions/snakeclef2022), Wikipedia and other sources.
 
-Our main focus is on the Indian subcontinent which includes **INDIA,BANGLADESH,BHUTAN,MALDIVES,NEPAL,PAKISTAN AND SRILANKA**. 
-We have also narrowed down the Snake species to the most deadly snakes of four categories i.e. **NAJA NAJA, BUNGARUS CAERULES, DABOIA RUSSELII, ECHIS CARINATUS**.
+Our main focus is on the Indian subcontinent, including **INDIA, BANGLADESH, BHUTAN, MALDIVES,NEPAL, PAKISTAN AND SRILANKA**. 
+We have also narrowed the Snake species to the most deadly snakes of four categories i.e. **NAJA NAJA, BUNGARUS CAERULES, DABOIA RUSSELII, ECHIS CARINATUS**.
 
 Here We follow *four* major methodologies.
 - Vision Transfer through Hugging Face
